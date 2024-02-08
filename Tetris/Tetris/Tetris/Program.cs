@@ -1,14 +1,12 @@
-﻿Console.SetWindowSize(40, 30);
+﻿using Tetris;
+
+Console.SetWindowSize(40, 30);
 Console.SetBufferSize(40, 30);
 
-int x1 = 7;
-int y1 = 3;
-char c1 = '*';
+Point p1 = new Point(2, 3, '*');
+p1.Draw();
 
-Draw(x1, y1, c1);
+Point p2 = new Point(4,5,'*');
+p2.Draw();
 
-static void Draw(int x, int y, char c)
-{
-    Console.SetCursorPosition(x, y);
-    Console.Write(c);
-}
+Console.ReadLine();

@@ -1,0 +1,15 @@
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.exe
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.deps.json
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.runtimeconfig.json
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.dll
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.pdb
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.csproj.AssemblyReference.cache
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfoInputs.cache
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfo.cs
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.csproj.CoreCompileInputs.cache
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.dll
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\refint\Tetris.dll
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.pdb
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.genruntimeconfig.cache
+C:\00_Программирование\00_Repositories\Tetris\Tetris\Tetris\obj\Debug\net6.0\ref\Tetris.dll
